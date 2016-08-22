@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='raw'>
+    <pages>
+        <page name='Functional - Flatmap'/>
+        <page name='Functional - Reduce'/>
+        <page name='Downcasting'/>
+        <page name='Associated Values'/>
+        <page name='Semaphore race conditions'/>
+        <page name='Case pattern matching'/>
+        <page name='Protocols'/>
+        <page name='Piping operators'/>
+        <page name='Parallel map'/>
+        <page name='Futures'/>
+    </pages>
+</playground>
